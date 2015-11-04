@@ -59,5 +59,5 @@ public class Tietokone implements Serializable {
 	public String toString() {
 		return "Tietokone [merkki=" + merkki + ", malli=" + malli + "]";
 	}
-
+//Tämä on kommentti. Terv. Mika
 }
