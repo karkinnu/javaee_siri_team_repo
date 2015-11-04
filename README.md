@@ -1,2 +1,2 @@
-# team_repo
+# javaee_team_repo
 Java EE repo
