@@ -3,8 +3,8 @@ package fi.javaee.siri;
 import java.io.Serializable;
 
 import javax.persistence.*;
-
-// tähän tehty kommenti kommitin kokeilua varten
+ 
+// tähän tehty kommentti 2 kommitin kokeilua varten 
 /**
  * Entity JPA toteututs.
  * Managed Bean tarjotaan JSF:lle. VOidaan käyttää JSF:n kontrollerista
