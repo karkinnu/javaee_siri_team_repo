@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 import javax.persistence.*;
  
-// tähän tehty kommentti 2 kommitin kokeilua varten     jha 201511051315
+// tähän tehty kommentti 2 kommitin kokeilua varten     jha 201511060945
 /**
  * Entity JPA toteututs.
  * Managed Bean tarjotaan JSF:lle. VOidaan käyttää JSF:n kontrollerista
